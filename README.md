@@ -37,3 +37,6 @@ git clone https://github.com/Ddhruv-IOT/yt-video-audio-mate.git
 ## Authors
 
 <img src="https://img.shields.io/github/followers/p-k-repswal.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub Followers Badge"> &nbsp; <!-- Add a space here --> <img src="https://img.shields.io/github/followers/Ddhruv-IOT.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub Followers Badge">
+
+## Status
+In Progress
